@@ -1,0 +1,2 @@
+platform :ios, '7.0'
+pod 'MAOFlipViewController', :git => "https://github.com/nishimao/MAOFlipViewController.git

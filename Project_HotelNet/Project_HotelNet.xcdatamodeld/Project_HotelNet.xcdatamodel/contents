@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14A389" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Customers" representedClassName="Project_HotelNet.Customers" syncable="YES">
+        <attribute name="account" attributeType="String" indexed="YES" syncable="YES"/>
+        <attribute name="password" attributeType="String" indexed="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Customers" positionX="-9" positionY="36" width="128" height="75"/>
+    </elements>
+</model>

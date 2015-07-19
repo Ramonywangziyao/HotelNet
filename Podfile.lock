@@ -1,0 +1,19 @@
+PODS:
+  - MAOFlipViewController (0.0.2)
+
+DEPENDENCIES:
+  - MAOFlipViewController (from `https://github.com/nishimao/MAOFlipViewController.git`)
+
+EXTERNAL SOURCES:
+  MAOFlipViewController:
+    :git: https://github.com/nishimao/MAOFlipViewController.git
+
+CHECKOUT OPTIONS:
+  MAOFlipViewController:
+    :commit: 4824ff4e16961fff30099777fd23dc503ab9a82d
+    :git: https://github.com/nishimao/MAOFlipViewController.git
+
+SPEC CHECKSUMS:
+  MAOFlipViewController: aeb4eb3ebf4bbd9ce29e367d1f0d9d644cbc9501
+
+COCOAPODS: 0.37.2
